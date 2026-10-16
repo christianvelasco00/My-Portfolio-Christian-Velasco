@@ -16,9 +16,11 @@ I'm currently developing my skills in software development, database management,
 💻 My Projects
 
  1. HydroReap
+
 An automated fish-harvesting concept designed to improve efficiency in fishpond operations.
 
  2. Parking Slot Reservation & Management System
+
 A proposed system for managing parking slots and reservations.
 
 3. AutoCAD Design Projects
@@ -30,6 +32,6 @@ Bachelor of Science in Computer Engineering
 
  📫 Contact
 - Email: ChristianVelasco1006@gmail.com
-- LinkedIn Facebook
+- LinkedIn Facebook: https://www.facebook.com/share/19mnYjYguJ/
 
 I'm continuously learning, building projects, and improving my technical skills.
