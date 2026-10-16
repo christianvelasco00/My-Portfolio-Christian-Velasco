@@ -34,4 +34,4 @@ Bachelor of Science in Computer Engineering
 - Email: ChristianVelasco1006@gmail.com
 - LinkedIn Facebook: https://www.facebook.com/share/19mnYjYguJ/
 
-I'm continuously learning, building projects, and improving my technical skills.
+I'm continuously learning, building projects, and improving my technical skills
